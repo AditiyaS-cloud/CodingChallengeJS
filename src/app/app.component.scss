@@ -1,0 +1,14 @@
+.basicCircle {
+    display:inline;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#container{
+display:flex;
+flex-direction: row;
+justify-content: space-around;
+}

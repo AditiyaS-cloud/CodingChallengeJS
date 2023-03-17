@@ -1,0 +1,6 @@
+<div id="container">
+  <div *ngFor="let item of rainbowColors; index as iIndex" class="basicCircle" [id]="'circle' + iIndex"
+    (click)="changeColor(iIndex)">
+
+  </div>
+</div>
