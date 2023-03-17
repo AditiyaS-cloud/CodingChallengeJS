@@ -1,4 +1,4 @@
-1.Challenge 1
+Challenge 1
 
 There are 7 circles with white background.
 You have to use 7 rainbow colors to fill that circle on click, and it has to be in order ROYGBIV (OPPOSITE OF VIBGYOR),
